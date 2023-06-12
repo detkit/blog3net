@@ -5,11 +5,6 @@ import { useRouter } from 'next/navigation';
 import useSWR from 'swr';
 import styles from './dashboard.module.css';
 
-export const metadata = {
-	title: 'Dashboard',
-	description: 'This is dashboard',
-};
-
 const Dashboard = () => {
 	//OLD WAY TO FETCH DATA
 
