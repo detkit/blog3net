@@ -35,8 +35,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Creative env
 
+```ENV
 GOOGLE_CLIENT_SECRET =
 GOOGLE_CLIENT_ID=
 NEXTAUTH_URL=
 NEXTAUTH_SECRET=
 MONGO_URI=
+```
