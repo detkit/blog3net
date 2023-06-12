@@ -10,7 +10,7 @@ export const metadata = {
 const Contact = () => {
 	return (
 		<>
-			<h1 className={styles.title}>Let&apos;s Keep in Touch</h1>
+			<h1 className={styles.title}>Keep in Touch</h1>
 			<div className={styles.content}>
 				<div className={styles.imgContainer}>
 					<Image
